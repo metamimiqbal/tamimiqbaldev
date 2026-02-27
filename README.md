@@ -18,6 +18,6 @@ I love writing efficient code and optimizing both my programs and my lifestyle. 
 ### 📫 Connect with me  
 - **GitHub:** [tamimiqbaldev](https://github.com/tamimiqbaldev)  
 - **Codeforces:** [unfairdopamine](https://codeforces.com/profile/unfairdopamine)  
-- **LinkedIn:** [tamimiqbaldev](https://www.linkedin.com/in/tamimiqbaldev)  
+- **LinkedIn:** [metamimiqbal](https://www.linkedin.com/in/metamimiqbal/)  
 
 #### Moto:- 💡 *Break. Debug. Optimize. Repeat.*  
