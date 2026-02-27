@@ -16,7 +16,7 @@ I love writing efficient code and optimizing both my programs and my lifestyle. 
 - 📖 Exploring **CS50x** & IBM Web Development Course (UNDP-funded)  
 
 ### 📫 Connect with me  
-- **GitHub:** [tamimiqbaldev](https://github.com/tamimiqbaldev)  
+- **GitHub:** [metamimiqbal](https://github.com/metamimiqbal)  
 - **Codeforces:** [unfairdopamine](https://codeforces.com/profile/unfairdopamine)  
 - **LinkedIn:** [metamimiqbal](https://www.linkedin.com/in/metamimiqbal/)  
 
